@@ -38,6 +38,7 @@
                                         <c:if test="${product.categoryLevel1Id==temp.id}">selected="selected"</c:if> >${temp.name}</option>
                             </c:forEach>
                         </select>
+                        
                     </td>
                 </tr>
                 <tr>
