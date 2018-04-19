@@ -1,4 +1,4 @@
-package cn.easybuy.web.backend;
+ package cn.easybuy.web.backend;
 import javax.servlet.ServletConfig;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
